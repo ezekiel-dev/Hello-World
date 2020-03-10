@@ -1,2 +1,3 @@
 # Hello-World
-I am using this repository to learn work around GitHub collaboration.
+
+My name is Mworekwa Ezekiel and I am new to software development. Well I intend to use thus repository to learn how github collaboration works.
